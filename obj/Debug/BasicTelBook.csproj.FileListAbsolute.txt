@@ -1,0 +1,6 @@
+C:\Users\Home\Desktop\Basic\Basic\bin\Debug\Basic.exe.config
+C:\Users\Home\Desktop\Basic\Basic\bin\Debug\Basic.exe
+C:\Users\Home\Desktop\Basic\Basic\bin\Debug\Basic.pdb
+C:\Users\Home\Desktop\Basic\Basic\obj\Debug\BasicTelBook.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Basic\Basic\obj\Debug\Basic.exe
+C:\Users\Home\Desktop\Basic\Basic\obj\Debug\Basic.pdb
